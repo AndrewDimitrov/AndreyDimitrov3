@@ -1,3 +1,3 @@
 # I'm Andrew,
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey&exclude_repo=github-readme-stats,anuraghazra.github.io)
