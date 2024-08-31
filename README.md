@@ -40,28 +40,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyDimitrov3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<br>
-
-# 💼 Socials and Contacts
-
-
 <div align="center">
-  <div>
-  <a href="https://stackoverflow.com/users/24729216/andrey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
   
-
-  </div>
+  [![](https://visitcount.itsvg.in/api?id=andreyDimitrov3&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=andreyDimitrov3&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-
-<div align="center">
-  <a href="https://stackoverflow.com/users/24729216/andrey" target="_blank" display="inline"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"</a>
-
-  [![codewars](https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/AndreyDimitrov)
 </div>
 
 <h2 align="center">📂 Repositories</h2>
@@ -90,3 +73,4 @@
 <h4 align="center">
   <a href="https://github.com/andreydimitrov3?tab=repositories" title="Show Repositories">🔎 Show More</a>
 </h4>
+
