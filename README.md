@@ -6,7 +6,7 @@
   <p>🎓 Education: currently studying at Sofia Vocational High School of Electronics "John Atanasov" with a specialization in System Programming.</p>
   <p>📚 Currently learning: Sass</p>
   <p>🚀 Tech Stack: HTML5, CSS3, JavaScript and Sass. I'm also familiar with Linux.</p>
-  <p>🌍 Languages: I'm fluent in Bulgarian and English, and I'm currently learning German.</p>
+  <p>🌍 Languages: I'm fluent in Bulgarian and English, and I'm currently learning Deutsch.</p>
   <p>🌱 Future Goals: Aiming to expand my knowledge in backend development, contribute to open-source projects, and work on projects with a team.</p>
 
   <br>
@@ -42,17 +42,51 @@
 
 <br>
 
-# 💼 Contacts
+# 💼 Socials and Contacts
+
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <div>
+  <a href="https://stackoverflow.com/users/24729216/andrey" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+  
+
+  </div>
 </div>
-
-
 
 [![](https://visitcount.itsvg.in/api?id=andreyDimitrov3&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
+<div align="center">
+  <a href="https://stackoverflow.com/users/24729216/andrey" target="_blank" display="inline"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"</a>
 
+  [![codewars](https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/AndreyDimitrov)
+</div>
+
+<h2 align="center">📂 Repositories</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AndreyDimitrov3/CodeWars-Solutions" title="CodeWars Solutions"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=CodeWars-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/andreyDimitrov3/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/andreyDimitrov3/https://github.com/AndreyDimitrov3/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/andreyDimitrov3/Tip-Calculator" title="Tip Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Tip-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/andreyDimitrov3/GitHub-Api" title="GitHub Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=GitHub-Api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/andreyDimitrov3/Javacript-Projects" title="Javacript Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Javacript-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/andreydimitrov3?tab=repositories" title="Show Repositories">🔎 Show More</a>
+</h4>
