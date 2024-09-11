@@ -54,21 +54,21 @@
   <a align="right" href="https://github.com/andreyDimitrov3/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/andreyDimitrov3/https://github.com/AndreyDimitrov3/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/andreyDimitrov3/Tip-Calculator" title="Tip Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Tip-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/andreyDimitrov3/GitHub-Api" title="GitHub Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=GitHub-Api&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/andreyDimitrov3/Javacript-Projects" title="Javacript Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Javacript-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <h4 align="center">
   <a href="https://github.com/andreydimitrov3?tab=repositories" title="Show Repositories">🔎 Show More</a>
