@@ -4,7 +4,7 @@
 
   <p>Hi, I'm Andrey Dimitrov, High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
   <p>🎓 Education: currently studying at Sofia Vocational High School of Electronics "John Atanasov" with a specialization in System Programming.</p>
-  <p>📚 Currently learning: SCSS</p>
+  <p>📚 Currently learning: Java</p>
   <p>🚀 Tech Stack: HTML5, CSS3, JavaScript and SCSS. I'm also familiar with Linux.</p>
   <p>🌍 Languages: I'm fluent in Bulgarian and English, and I'm currently learning Deutsch.</p>
   <p>🌱 Future Goals: Aiming to expand my knowledge in backend development, contribute to open-source projects, and work on projects with a team.</p>
