@@ -57,7 +57,7 @@
 <br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/andreyDimitrov3/https://github.com/AndreyDimitrov3/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndreyDimitrov3/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/andreyDimitrov3/Tip-Calculator" title="Tip Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Tip-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
