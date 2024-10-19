@@ -51,7 +51,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/AndreyDimitrov3/CodeWars-Solutions" title="CodeWars Solutions"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=CodeWars-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/andreyDimitrov3/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndreyDimitrov3/Where-in-the-world" title="Where in the world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Where-in-the-world&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/>
@@ -65,7 +65,7 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/andreyDimitrov3/GitHub-Api" title="GitHub Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=GitHub-Api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/andreyDimitrov3/Javacript-Projects" title="Javacript Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Javacript-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/andreyDimitrov3/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/>
