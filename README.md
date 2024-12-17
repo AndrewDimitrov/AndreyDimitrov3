@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3400&pause=350&vCenter=true&multiline=true&repeat=false&width=880&height=100&lines=Welcome+to+my+page!;I'm+Andrey%2C+Frontend+developer+from+Sofia%2C+Bulgaria." alt="Typing SVG" /></a>
 
-  <p>Hi, I'm Andrey Dimitrov, High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
+  <p>Hi, I'm Andrey Dimitrov, a High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
   <p>🎓 Education: currently studying at Sofia Vocational High School of Electronics "John Atanasov" with a specialization in System Programming.</p>
   <p>📚 Currently learning: Java</p>
   <p>🚀 Tech Stack: HTML5, CSS3, JavaScript and SCSS. I'm also familiar with Linux.</p>
@@ -20,7 +20,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS3" height ="42px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="Sass" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
+<a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Spring" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"> </a>
 
 <br>
 <br>
