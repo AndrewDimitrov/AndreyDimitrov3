@@ -21,7 +21,7 @@
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="Sass" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Spring" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"> </a>
+<a href="https://spring.io/" target="_blank"> <img align="left" alt="Spring" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"> </a>
 
 <br>
 <br>
