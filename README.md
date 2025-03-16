@@ -38,19 +38,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreydimitrov3&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dark&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-<div align="center">
+<!--- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreydimitrov3&theme=dark&hide_border=true" alt="streak stats graph" />
-</div>
+</div> -->
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyDimitrov3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!---  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyDimitrov3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=andreyDimitrov3&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andrey_Dimitrov&layout=compact&theme=dark">
 </div>
-
 </div>
 
 <h2 align="center">📂 Repositories</h2>
