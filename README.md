@@ -1,17 +1,17 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3400&pause=350&vCenter=true&multiline=true&repeat=false&width=880&height=100&lines=Welcome+to+my+page!;I'm+Andrey%2C+Frontend+developer+from+Sofia%2C+Bulgaria." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3400&pause=350&vCenter=true&multiline=true&repeat=false&width=910&height=100&lines=Welcome+to+my+page!;I'm+Andrey%2C+Full Stack+developer+from+Sofia%2C+Bulgaria." alt="Typing SVG" /></a>
 
   <p>Hi, I'm Andrey Dimitrov, a High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
   <p>🎓 Education: currently studying at Sofia Vocational High School of Electronics "John Atanasov" with a specialization in System Programming.</p>
-  <p>📚 Currently learning: Spring</p>
-  <p>🚀 Tech Stack: HTML5, CSS3, SCSS, JavaScript, Java and Spring. I'm also familiar with Linux.</p>
+  <p>📚 Currently learning: BackEnd</p>
+  <p>🚀 Tech Stack: HTML, CSS, SCSS, Tailwind, JavaScript, React, NextJs, Java, Git and MongoDB. I'm also familiar with Linux.</p>
   <p>🌍 Languages: I'm fluent in Bulgarian and English, and I'm currently learning Deutsch.</p>
   <p>🌱 Future Goals: Aiming to expand my knowledge in backend development, contribute to open-source projects, and work on projects with a team.</p>
 
   <br>
   
-  <p>🎯 Hobbies & Interests: I'm also a great chess player, and enjoy reading about investing in forex, stocks and ETFs.</p>
+  <p>🎯 Hobbies & Interests: I'm also a great chess player, and enjoy reading about investing stocks and entrepreneurship.</p>
   <p>📈 Growth Mindset: I'm committed to continuous improvement.</p>
   
 # 🔨 Languages and Tools:
@@ -19,9 +19,12 @@
 **Extensive use: &nbsp;**
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="35" height="35"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="32" height="32"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="32" height="32"/></code>&nbsp;
 
 **Others: &nbsp;**
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="32" height="32"/></code>&nbsp;
