@@ -1,8 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3400&pause=350&vCenter=true&multiline=true&repeat=false&width=910&height=100&lines=Welcome+to+my+page!;I'm+Andrey%2C+Full Stack+developer+from+Sofia%2C+Bulgaria." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3400&pause=350&vCenter=true&multiline=true&repeat=false&width=910&height=100&lines=Welcome+to+my+page!;I'm+Andrew%2C+Full+Stack+developer+from+Sofia%2C+Bulgaria." alt="Typing SVG" />
+</a>
 
-  <p>Hi, I'm Andrey Dimitrov, a High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
+  <p>Hi, I'm Andrew Dimitrov, a High school student from Bulgaria. <img src="https://cdn-icons-png.flaticon.com/512/5372/5372659.png" width="16px" height="16px"/></p>
   <p>🎓 Education: currently studying at Sofia Vocational High School of Electronics "John Atanasov" with a specialization in System Programming.</p>
   <p>📚 Currently learning: BackEnd</p>
   <p>🚀 Tech Stack: HTML, CSS, SCSS, Tailwind, JavaScript, React, NextJs, Java, Git and MongoDB. I'm also familiar with Linux.</p>
@@ -37,17 +39,17 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/1011/1011528.png" alt="Stats" height="25px" width="25px"> Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreydimitrov3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreydimitrov3&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dark&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewDimitrov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewDimitrov&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dark&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <!--- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreydimitrov3&theme=dark&hide_border=true" alt="streak stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewDimitrov&theme=dark&hide_border=true" alt="streak stats graph" />
 </div> -->
 
 <br>
 
-<!---  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyDimitrov3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<!---  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewDimitrov&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Andrey_Dimitrov&layout=compact&theme=dark">
@@ -57,27 +59,27 @@
 <h2 align="center">📂 Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AndreyDimitrov3/CodeWars-Solutions" title="CodeWars Solutions"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=CodeWars-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/AndreyDimitrov3/Where-in-the-world" title="Where in the world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Where-in-the-world&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndrewDimitrov/CodeWars-Solutions" title="CodeWars Solutions"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=CodeWars-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndrewDimitrov/Where-in-the-world" title="Where in the world"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=Where-in-the-world&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AndreyDimitrov3/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/andreyDimitrov3/Tip-Calculator" title="Tip Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Tip-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndrewDimitrov/English-Dictionary" title="English Dictionary"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=English-Dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AndrewDimitrov/Tip-Calculator" title="Tip Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=Tip-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/andreyDimitrov3/GitHub-Api" title="GitHub Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=GitHub-Api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/andreyDimitrov3/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=andreyDimitrov3&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AndrewDimitrov/GitHub-Api" title="GitHub Api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=GitHub-Api&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AndrewDimitrov/Product-Page" title="Product Page"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewDimitrov&repo=Product-Page&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/andreydimitrov3?tab=repositories" title="Show Repositories">🔎 Show More</a>
+  <a href="https://github.com/AndrewDimitrov?tab=repositories" title="Show Repositories">🔎 Show More</a>
 </h4>
 
